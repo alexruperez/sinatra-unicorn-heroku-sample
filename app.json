@@ -1,0 +1,7 @@
+{
+  "name": "Sinatra Unicorn Heroku Sample",
+  "description": "'Deploy to Heroku' Sample using Sinatra and Unicorn",
+  "repository": "https://github.com/alexruperez/sinatra-unicorn-heroku-sample",
+  "logo": "https://raw.githubusercontent.com/alexruperez/sinatra-unicorn-heroku-sample/master/logo.png",
+  "keywords": ["sinatra", "unicorn", "heroku", "sample"]
+}
