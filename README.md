@@ -1,5 +1,6 @@
 Sinatra Unicorn Heroku Sample
 =============================
+[![Dependency Status](https://www.versioneye.com/user/projects/555b03c6634daa5dc800016c/badge.svg?style=flat)](https://www.versioneye.com/user/projects/555b03c6634daa5dc800016c)
 
 "Deploy to Heroku" Sample using Sinatra and Unicorn
 
